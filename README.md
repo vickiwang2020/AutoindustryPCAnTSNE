@@ -5,11 +5,11 @@ The objective of this problem is to explore the data, reduce the number of featu
 # Dataset
 There are 8 variables in the data:
 
-`mpg`: miles per gallon
-`cyl`: number of cylinders
-`disp`: engine displacement (cu. inches) or engine size
-`hp`: horsepower
-`wt`: vehicle weight (lbs.)
-`acc`: time taken to accelerate from 0 to 60 mph (sec.)
-`yr`: model year
-`car name`: car model name
+- `mpg`: miles per gallon
+- `cyl`: number of cylinders
+- `disp`: engine displacement (cu. inches) or engine size
+- `hp`: horsepower
+- `wt`: vehicle weight (lbs.)
+- `acc`: time taken to accelerate from 0 to 60 mph (sec.)
+- `yr`: model year
+- `car name`: car model name
